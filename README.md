@@ -1,4 +1,4 @@
-# 🤖 Smart Learning Assistant: A Multifunctional RAG Chatbot  
+# Smart Learning Assistant: A Multifunctional RAG Chatbot  
 
 ## 📌 Project Overview  
 **Smart Learning Assistant** is a Retrieval-Augmented Generation (RAG)-based chatbot designed to help students and researchers process complex documents more efficiently.  
@@ -44,7 +44,8 @@ The development pipeline follows these steps:
 
 ---
 ## Flowchart
-<img width="421" height="1109" align="center" alt="image" src="https://github.com/user-attachments/assets/ff5819b0-d048-4541-9fd2-d15b1486343a" />
+<img width="308" height="811" alt="RAG_01-removebg-preview" src="https://github.com/user-attachments/assets/5e0f26f4-434a-46b7-ba8d-17efac9d7cad" />
+
 
 ---
 
